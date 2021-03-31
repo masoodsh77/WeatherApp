@@ -1,0 +1,22 @@
+@font-face{
+  font-family: 'Yekan';
+  src:url(./Font/yekannumbers-regular.ttf)
+}
+@font-face{
+  font-family: 'sansM';
+  src:url(./Font/IRANSansWeb_Medium.woff2)
+}
+@font-face{
+  font-family: 'sansR';
+  src:url(./Font/IRANSansWeb.woff2)
+}
+body {
+  margin: 0;
+  font-family: 'Yekan' , 'sansR';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:'Yekan' , 'sansM';
+}

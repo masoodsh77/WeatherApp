@@ -1,0 +1,57 @@
+.inputCity{
+    border-top-left-radius:0 !important ;
+    border-bottom-left-radius:0 !important ;
+    border-top-right-radius:5px !important ;
+    border-bottom-right-radius:5px !important ;
+}
+.buttonCity{
+    border-top-right-radius:0 !important ;
+    border-bottom-right-radius:0 !important ;
+}
+.toDay{
+    width: 100%;
+    height:100% !important;
+    margin: 15px;
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+}
+.toDayTemp{
+    font-family: 'yekan';
+    font-size: 30px;
+    font-weight: bolder;
+}
+.toDayTempIcon{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.toDayInfo{
+    font-size: 30px;
+}
+.toDayDes{
+    font-weight: lighter;
+    font-family: 'sansR','yekan';
+    margin: 0 150px !important;
+}
+.toDayDesItems{
+    margin: 20px 0;
+}
+.days{
+    width: 29.96%;
+    height: 100% !important;
+    margin:  0 15px;
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+}
+.reload{
+    position: fixed;
+    left: 260px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.reload:hover{
+    background-color: rgba(255, 255, 255, 0.8);
+}
