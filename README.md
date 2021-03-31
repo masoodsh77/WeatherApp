@@ -1,5 +1,5 @@
 
-# Prsian Version
+# Persian Version
 =================
 # نرم افزار هواشناسی با ReactJs و OpenweaterApp
 
